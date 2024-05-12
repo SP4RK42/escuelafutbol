@@ -1,5 +1,5 @@
 -- Crear la base de datos
-CREATE DATABASE IF NOT EXISTS EscuelaFutbolDB_Prueba;
+CREATE DATABASE IF NOT EXISTS EscuelaFutbolDB;
 USE EscuelaFutbolDB;
 
 -- Tabla de Alumnos
